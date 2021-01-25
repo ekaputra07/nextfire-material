@@ -1,4 +1,4 @@
-export const DEPLOY_URL = process.env.NEXT_DEPLOY_URL;
+export const DEPLOY_URL = process.env.NEXT_PUBLIC_DEPLOY_URL;
 export const TAGLINE = process.env.NEXT_PUBLIC_TAGLINE;
 
 export const FIREBASE_CLIENT_CONFIG = {
